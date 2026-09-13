@@ -2,6 +2,8 @@
 
 ## Overview
 
+purs-orm は PureScript の ORM。
+
 ## Docs
 
 - `README.md` — Project overview and usage
@@ -9,5 +11,7 @@
 - `docs/DESIGN.md` — Design and architecture
 
 ## Skills
+
+- `.claude/skills/pursuit/SKILL.md`：Pursuit で PureScript の関数や型を型シグネチャから検索する
 
 ## MCP
