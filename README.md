@@ -2,9 +2,11 @@
 
 ## Overview
 
-生成される SQL が予測可能で一意に定まる PureScript の ORM。
+PureScript の ORM。
 
 ## Features
+
+- droplet のように、生成される SQL が eDSL と一対一に対応し、一意に定まる
 
 ## Prerequisites
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-purs-orm は、生成される SQL が予測可能で一意に定まることを最優先する PureScript の ORM。
+purs-orm は PureScript の ORM。
 
 ## Docs
 
