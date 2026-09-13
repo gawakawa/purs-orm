@@ -13,5 +13,5 @@
 ## Notes
 
 - `app` (`nix build` / `nix run` で得られる `result/bin/app`) はテンプレート由来の暫定物で、ライブラリ本体ではない
-- `*.purs` は pre-commit の treefmt フックから除外されている (`nix/pre-commit.nix`)。PureScript の整形は `nix fmt` を明示的に実行する必要がある
-- 依存の追加・変更は `spago.yaml` ではなく `nix/packages.nix` の `dependencies` / `test-dependencies` を編集する
+- `*.purs` は pre-commit の treefmt フックから除外されている (`nix/pre-commit.nix`) ため、PureScript の整形は `nix fmt` を明示的に実行する必要がある
+- 依存の追加や変更は `spago.yaml` ではなく `nix/packages.nix` の `dependencies` / `test-dependencies` を編集する
